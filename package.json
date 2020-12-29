@@ -1,0 +1,19 @@
+{
+  "name": "@beligh/first-npm-lib",
+  "version": "1.0.0",
+  "description": "First NPM JS Lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beligh/first-npm-lib.git"
+  },
+  "author": "Beligh HAMDI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beligh/first-npm-lib/issues"
+  },
+  "homepage": "https://github.com/beligh/first-npm-lib#readme"
+}
